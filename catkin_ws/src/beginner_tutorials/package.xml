@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>beginner_tutorials</name>
+  <version>0.0.0</version>
+  <description>My First Package</description>
+
+  <maintainer email="shubhanshu@email.com">Shubhanshu</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>roscpp</build_depend>
+  <depend>rospy</build_depend>
+  <depend>std_msgs</build_depend>
+
+</package>
