@@ -6,3 +6,4 @@
 2. Navigating the ROS Filesystem
 3. Creating a ROS Package
 4. Building a ROS Package
+5. Understanding ROS Nodes
