@@ -7,3 +7,4 @@
 3. Creating a ROS Package
 4. Building a ROS Package
 5. Understanding ROS Nodes
+6. Understanding ROS Topics
