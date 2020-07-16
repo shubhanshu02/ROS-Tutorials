@@ -15,3 +15,7 @@
 11. Writing a Simple Publisher and Subscriber (C++)
 12. Examining the Simple Publisher and Subscriber
 13. Writing a Simple Service and Client (C++)
+14. Recording and playing back data
+15. Reading messages from a bag file 
+16. Getting started with roswtf
+17. Navigating the ROS wiki
