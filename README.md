@@ -13,3 +13,5 @@
 9. Using rosed to edit files in ROS
 10. Creating a ROS msg and srv
 11. Writing a Simple Publisher and Subscriber (C++)
+12. Examining the Simple Publisher and Subscriber
+13. Writing a Simple Service and Client (C++)
